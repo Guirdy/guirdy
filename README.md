@@ -4,8 +4,8 @@
 
 ### Find me here 🌎💬
 
-[![Linkedin Badge](https://img.shields.io/badge/-GuilhermeLeandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guirdy1/)](https://www.linkedin.com/in/guirdy1/)
-[![Gmail Badge](https://img.shields.io/badge/-guilherme.gl1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.gl1997@gmail.com)](mailto:guilherme.gl1997@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guirdy1/)](https://www.linkedin.com/in/guirdy1/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.gl1997@gmail.com)](mailto:guilherme.gl1997@gmail.com)
 
 
 💻 Dev Frontend | Focused on ReactJS<br>
