@@ -8,6 +8,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.gl1997@gmail.com)](mailto:guilherme.gl1997@gmail.com)
 
 
+### More details about me
+
+[![Sourcerer](https://img.shields.io/badge/Sourcerer-Perfil-brightgreen)](https://sourcerer.io/gui-leandro)
+
 💻 Dev Frontend | Focused on ReactJS<br>
 📚 Graduating in Information Systems<br>
 🎮 Nerd | Geek | Gamer<br>
