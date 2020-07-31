@@ -16,5 +16,7 @@
 📚 Graduating in Information Systems<br>
 🎮 Nerd | Geek | Gamer<br>
 
-Thanks for your visit!
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gui-leandro&show_icons=true" alt="gui-leandro" /> </p>
+
+<p align="center">Thanks for your visit!</p>
 </samp>
