@@ -16,7 +16,38 @@
 📚 Graduating in Information Systems<br>
 🎮 Nerd | Geek | Gamer<br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gui-leandro&show_icons=true" alt="gui-leandro" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=gui-leandro&show_icons=true" alt="gui-leandro" />
 
-<p align="center">Thanks for your visit!</p>
+## Knowledge
+
+**Languages**
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=Java&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+
+**Front-end**
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/gui-leandro/)
+
+**Others Technologies**
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+
+**Database**
+[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+
+**Operational System**
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+
+**IDE**
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+
+**Versioning**
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+
+<br/>
+Thanks for your visit!
 </samp>
