@@ -24,7 +24,14 @@
 📚 Graduating in Information Systems<br>
 🎮 Nerd | Geek | Gamer<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gui-leandro&show_icons=true" alt="gui-leandro" />
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-leandro&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=gui-leandro&theme=dark&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
 
 ## Knowledge
 
