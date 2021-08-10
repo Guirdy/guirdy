@@ -31,7 +31,7 @@
 
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-60A5FA?style=flat-square&logo=typescript&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 
 **Front-end**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
