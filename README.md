@@ -36,12 +36,12 @@
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
-[![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=Java&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 
 **Front-end**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-BFDBFE?style=flat-square&logo=Tailwindcss&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/gui-leandro/)
 
 **Others Technologies**
@@ -53,6 +53,7 @@
 
 **Operational System**
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![Linux](https://img.shields.io/badge/-Linux-064E3B?style=flat-square&logo=Linux&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 
 **IDE**
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
@@ -60,6 +61,7 @@
 **Versioning**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-2563EB?style=flat-square&logo=Bitbucket&link=https://github.com/gui-leandro/)](https://github.com/gui-leandro/)
 
 <br/>
 Thanks for your visit!
