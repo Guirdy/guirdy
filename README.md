@@ -30,4 +30,5 @@
 
 <br/>
 <h2 align="center">Thanks for your visit! 😀</h2>
+![Snake animation](https://github.com/gui-leandro/gui-leandro/blob/output/github-contribution-grid-snake.svg)
 
