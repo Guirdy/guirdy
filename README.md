@@ -1,6 +1,6 @@
 ## Hi! I'm Guilherme 👋
 
-💻 Frontend Developer 🏡 São Paulo 🌎 Brazil
+💻 Front-end Developer 🏡 São Paulo 🌎 Brazil
 
 ### Find me here 🌎💬
 
