@@ -1,41 +1,36 @@
-## Hi! I'm Guilherme 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aeff&height=120&section=header"/>
 
-💻 Front-end Developer 🏡 São Paulo 🌎 Brazil
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0080D1&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Guilherme+👋;Front-end+Developer+💻)](https://git.io/typing-svg)
 
-### Find me here 🌎💬
+<br/>
 
-<div>
+<div align="center">
+<a href="https://github.com/guirdy">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guirdy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=02aeff&icon_color=02aeff&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Leandro github stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guirdy&layout=compact&langs_count=7&hide_border=true&title_color=02aeff&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
+
+<br/>
+  
+<div align="center">
   <a href="https://guilhermeleandro.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
   <a href="mailto:guilherme.gl1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guirdy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### More details about me
-
-<div align="center">
-<a href="https://github.com/guirdy">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guirdy&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guirdy&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
-
-### Knowledge
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+### Skills:
+![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Nexj.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![Node](https://img.shields.io/badge/Node-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=0D1117)&nbsp; 
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)&nbsp;
+![Styled-Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117)&nbsp;
 
 <br/>
-<h2 align="center">Thanks for your visit! 😀</h2>
-  
-<div align="center">
-  
-  ![Snake animation](https://github.com/guirdy/guirdy/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
+<h3 align="center">Thanks for your visit! 😀</h3>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aeff&height=120&section=footer"/>
